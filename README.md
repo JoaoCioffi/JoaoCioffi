@@ -19,9 +19,29 @@
 <details>
 <summary> <b> Facts </b> <i>(Click to expand)</i> </summary>
 
+
+
+
+
+
+
+
+
 <img align="left" width="200" height="200" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif">
 
+
+
+
+
+
+
+
+
 </details>
+
+
+
+
 
 ### 🏆 Dev Obtained Skills 🏆
 - Matlab >>> [✔️]
