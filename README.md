@@ -1,11 +1,11 @@
 
 <img align="centered" width="1000" height="400" src="https://hackernoon.com/images/f2px36fy.gif">
 
-### 👋 Welcome to my rep 👋
+### Welcome to my rep 👋
 
 #### -------------------------------------- / / ---------------------------------------------------
 
-### 📖 About me 📖
+### 📖 About me:
 
 Graduating in Aeronautical Engineering 🎓, I've always been passionate about aviation ✈️ and fascinated by the vast universe of computer science 💻. Increasingly trying to engage in new horizons ☕.
 
