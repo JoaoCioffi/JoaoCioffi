@@ -1,8 +1,6 @@
 
 <img align="centered" width="1000" height="400" src="https://hackernoon.com/images/f2px36fy.gif">
 
-<img align="centered" width="200" height="200" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif">
-
 ## Welcome to my rep 👋.
 
 
