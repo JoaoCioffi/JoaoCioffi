@@ -16,6 +16,18 @@
 
 -------------------------------------- / / ---------------------------------------------------
 
+![Stats:](https://github-readme-stats.vercel.app/api?username=JoaoCioffi&show_icons=true&theme=dracula&title_color=00ea00)
+
+### 🏆 Dev Obtained Skills 🏆
+- Matlab >>> [✔️]
+- LaTeX >>> [✔️]
+- Arduino/C++ >>> [✔️]
+- Python >>> [Loading ⌛]
+
+
+
+
+
 <details>
 <summary> <b> Facts </b> <i>(Click to expand)</i> </summary>
 
@@ -38,17 +50,4 @@
 
 
 </details>
-
-
-
-
-
-### 🏆 Dev Obtained Skills 🏆
-- Matlab >>> [✔️]
-- LaTeX >>> [✔️]
-- Arduino/C++ >>> [✔️]
-- Python >>> [Loading ⌛]
-
-
-![Stats:](https://github-readme-stats.vercel.app/api?username=JoaoCioffi&show_icons=true&theme=dracula&title_color=00ea00)
 
