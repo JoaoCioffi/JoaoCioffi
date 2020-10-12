@@ -19,7 +19,7 @@ In my free time, beyond programming, I try to create some musical stuff 🎵. Vi
 
 #### -------------------------------------- / / ---------------------------------------------------
 
-### 🏆 Dev Obtained Skills 🏆
+### 🏆 Some of my Skills 🏆
 - Matlab >>> [✔️]
 - LaTeX >>> [✔️]
 - Arduino/C++ >>> [✔️]
