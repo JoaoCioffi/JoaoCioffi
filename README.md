@@ -3,7 +3,7 @@
 
 ### Welcome to my rep 👋.
 
-### -------------------------------------- / / ---------------------------------------------------
+#### -------------------------------------- / / ---------------------------------------------------
 
 ### Social Profile & Contact :man_technologist::
 [![Linkedin Badge](https://img.shields.io/badge/-JoaoCioffi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-raphael-cioffi-b11549156/)](https://www.linkedin.com/in/jo%C3%A3o-raphael-cioffi-b11549156/)
@@ -11,19 +11,19 @@
 [![Instagram Badge](https://img.shields.io/badge/-see_0ff-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/see_0ff/)](https://www.instagram.com/see_0ff/)
 [![Facebook Badge](https://img.shields.io/badge/-JoaoCioffi-a43b9d?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/joao.cioffi.35/)](https://www.facebook.com/joao.cioffi.35/)
 
-### -------------------------------------- / / ---------------------------------------------------
+#### -------------------------------------- / / ---------------------------------------------------
 
 ### 📖 About me:
 
 Graduating in Aeronautical Engineering 🎓, I've always been passionate about aviation ✈️ and fascinated by the vast universe of computer science 💻. Increasingly trying to engage in new horizons.
 
-### -------------------------------------- / / ---------------------------------------------------
+#### -------------------------------------- / / ---------------------------------------------------
 
 
 ![Stats:](https://github-readme-stats.vercel.app/api?username=JoaoCioffi&show_icons=true&theme=dracula&title_color=00ea00)
 
 
-### -------------------------------------- / / ---------------------------------------------------
+#### -------------------------------------- / / ---------------------------------------------------
 
 ### 🏆 Dev Obtained Skills 🏆
 - Matlab >>> [✔️]
@@ -31,7 +31,7 @@ Graduating in Aeronautical Engineering 🎓, I've always been passionate about a
 - Arduino/C++ >>> [✔️]
 - Python >>> [Loading ⌛]
 
-### -------------------------------------- / / ---------------------------------------------------
+#### -------------------------------------- / / ---------------------------------------------------
 
 <details>
 <summary> <b> Life's Easteregg: </b> <i>(Click to expand)</i> </summary>
