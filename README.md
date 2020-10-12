@@ -29,5 +29,5 @@ Graduating in Aeronautical Engineering 🎓, I've always been passionate about a
 - Python >>> [Loading ⌛]
 
 
-![Joao's github stats](https://github-readme-stats.vercel.app/api?username=JoaoCioffi&show_icons=true&theme=dracula&title_color=00ea00)
+![Stats:](https://github-readme-stats.vercel.app/api?username=JoaoCioffi&show_icons=true&theme=dracula&title_color=00ea00)
 
