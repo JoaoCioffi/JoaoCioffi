@@ -1,4 +1,4 @@
-### Hi, there 👋. Welcome to my rep!
+### Hello, world! Welcome to my rep 👋.
 
 
 # João R. Cioffi :man_technologist: 
