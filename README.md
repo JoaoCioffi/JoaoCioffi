@@ -7,7 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-see_0ff-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/see_0ff/)](https://www.instagram.com/see_0ff/)
 
 
-<img align="right" width="400" height="400" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif">
+<img align="right" width="200" height="200" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif">
 
 <details>
 <summary> <b> Facts </b> <i>(Click to expand)</i> </summary>
