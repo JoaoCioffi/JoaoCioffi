@@ -7,7 +7,7 @@
 <summary> <b> Facts </b> <i>(Click to expand)</i> </summary>
 
 ### 📖 About me:
-Graduating in Aeronautical Engineering in Unesp-SJBV ✈️, I am an active member of the Adelphi AeroDesign Team (https://www.instagram.com/adelphi_sjbv/). My role is to act as a Structures Engineer and have some skills in FEM (Finite Element Method) using softwares such as Ansys and Siemens Femap.
+Graduating in Aeronautical Engineering in Unesp-SJBV ✈️, I'm an active member of the Adelphi AeroDesign Team (https://www.instagram.com/adelphi_sjbv/). My role is to act as a Structures Engineer and have some skills in FEM (Finite Element Method) using softwares such as Ansys and Siemens Femap.
 
 I've always been passionate about aviation and fascinated by the vast universe of computer science. Increasingly trying to engage in new horizons.
 </details>
