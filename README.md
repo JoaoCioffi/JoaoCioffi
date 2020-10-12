@@ -13,10 +13,10 @@ I've always been passionate about aviation and fascinated by the vast universe o
 </details>
 
 ### 💻 Dev Obtained Skills 🏆:
-- Matlab
-- LaTeX
-- Arduino/C++
-- Python
+- Matlab ✔️
+- LaTeX ✔️
+- Arduino/C++ ✔️
+- Python ✔️
 
 
 ![JoaoCioffi's github stats](https://github-readme-stats.vercel.app/api?username=JoaoCioffi&show_icons=true&theme=dracula&title_color=00ea00)
