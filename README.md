@@ -20,7 +20,7 @@ Graduating in Aeronautical Engineering 🎓, I've always been passionate about a
 ---------------------------------------------------------------------------   / /   ------------------------------------------------------------------------------ 
 </details>
 
-### Dev Obtained Skills 🏆:
+### 🏆 Dev Obtained Skills 🏆:
 - Matlab - [✔️]
 - LaTeX - [✔️]
 - Arduino/C++ - [✔️]
