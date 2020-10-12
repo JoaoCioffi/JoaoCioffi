@@ -16,7 +16,7 @@ I've always been passionate about aviation and fascinated by the vast universe o
 - Matlab ✔️
 - LaTeX ✔️
 - Arduino/C++ ✔️
-- Python ✔️
+- Python [In Progress ...]
 
 
 ![JoaoCioffi's github stats](https://github-readme-stats.vercel.app/api?username=JoaoCioffi&show_icons=true&theme=dracula&title_color=00ea00)
