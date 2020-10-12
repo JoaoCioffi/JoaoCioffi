@@ -10,6 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-joaorcioffi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaorcioffi@gmail.com)](mailto:joaorcioffi@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-see_0ff-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/see_0ff/)](https://www.instagram.com/see_0ff/)
 [![Facebook Badge](https://img.shields.io/badge/-JoaoCioffi-a43b9d?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/joao.cioffi.35/)](https://www.facebook.com/joao.cioffi.35/)
+[![Steam Badge](https://img.shields.io/badge/-Andromeda-a43b9d?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198133706726/)](https://steamcommunity.com/profiles/76561198133706726/)
 
 #### -------------------------------------- / / ---------------------------------------------------
 
