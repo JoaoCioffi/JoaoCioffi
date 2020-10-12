@@ -14,6 +14,7 @@ I've always been passionate about aviation and fascinated by the vast universe o
 
 ### 💻 Dev Obtained Skills 🏆:
 - Matlab
+- LaTeX
 - Arduino/C++
 - Python
 
