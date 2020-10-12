@@ -36,7 +36,7 @@ In my free time, beyond programming, I try to create some musical stuff 🎵. Vi
 #### -------------------------------------- / / ---------------------------------------------------
 
 <details>
-<summary> <b> Life's Easteregg: </b> <i>(Click to expand)</i> </summary>
+<summary> <b> Life's EasterEgg: </b> <i>(Click to expand)</i> </summary>
 
 <img align="left" width="200" height="200" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif">
 
