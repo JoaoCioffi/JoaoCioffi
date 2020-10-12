@@ -11,21 +11,18 @@
 [![Gmail Badge](https://img.shields.io/badge/-joaorcioffi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaorcioffi@gmail.com)](mailto:joaorcioffi@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-see_0ff-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/see_0ff/)](https://www.instagram.com/see_0ff/)
 
+### 📖 About me:
+-------------------------------------- / / ---------------------------------------------------
+
+- Graduating in Aeronautical Engineering 🎓, I've always been passionate about aviation ✈️ and fascinated by the vast universe of computer science 💻. Increasingly trying to engage in new horizons.
+
+-------------------------------------- / / ---------------------------------------------------
 
 <details>
 <summary> <b> Facts </b> <i>(Click to expand)</i> </summary>
 
-### 📖 About me:
+<img align="left" width="200" height="200" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif">
 
--------------------------------------- / / ---------------------------------------------------
-
-
-
-Graduating in Aeronautical Engineering 🎓, I've always been passionate about aviation ✈️ and fascinated by the vast universe of computer science 💻. Increasingly trying to engage in new horizons.
-
-
-
--------------------------------------- / / ---------------------------------------------------
 </details>
 
 ### 🏆 Dev Obtained Skills 🏆
