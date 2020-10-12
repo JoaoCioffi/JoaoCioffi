@@ -5,7 +5,7 @@
 
 -------------------------------------- / / ---------------------------------------------------
 
-## :man_technologist: 
+#### :man_technologist: 
 [![Linkedin Badge](https://img.shields.io/badge/-JoaoCioffi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-raphael-cioffi-b11549156/)](https://www.linkedin.com/in/jo%C3%A3o-raphael-cioffi-b11549156/)
 [![Gmail Badge](https://img.shields.io/badge/-joaorcioffi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaorcioffi@gmail.com)](mailto:joaorcioffi@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-see_0ff-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/see_0ff/)](https://www.instagram.com/see_0ff/)
