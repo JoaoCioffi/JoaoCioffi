@@ -1,3 +1,6 @@
+### Hi, there 👋. Welcome to my rep!
+
+
 # João R. Cioffi :man_technologist: 
 [![Linkedin Badge](https://img.shields.io/badge/-JoaoCioffi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-raphael-cioffi-b11549156/)](https://www.linkedin.com/in/jo%C3%A3o-raphael-cioffi-b11549156/)
 [![Gmail Badge](https://img.shields.io/badge/-joaorcioffi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaorcioffi@gmail.com)](mailto:joaorcioffi@gmail.com)
