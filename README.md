@@ -29,7 +29,7 @@
 
 
 <details>
-<summary> <b> Fact: </b> <i>(Click to expand)</i> </summary>
+<summary> <b> Life's Easteregg: </b> <i>(Click to expand)</i> </summary>
 
 
 
