@@ -29,7 +29,7 @@
 
 
 <details>
-<summary> <b> Facts </b> <i>(Click to expand)</i> </summary>
+<summary> <b> A true fact: </b> <i>(Click to expand)</i> </summary>
 
 
 
