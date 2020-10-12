@@ -1,4 +1,8 @@
-### Hello world! Welcome to my rep 👋.
+
+<img align="center" width="200" height="200" src="https://hackernoon.com/images/f2px36fy.gif">
+
+
+### Welcome to my rep 👋.
 
 
 # João R. Cioffi :man_technologist: 
