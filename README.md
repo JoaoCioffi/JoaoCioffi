@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-see_0ff-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/see_0ff/)](https://www.instagram.com/see_0ff/)
 
 <details>
-<summary> <b> Facts about me </b> <i>(Click to expand)</i> </summary>
+<summary> <b> Facts </b> <i>(Click to expand)</i> </summary>
 
 ### 📖 About me:
 Graduating in Aeronautical Engineering in Unesp-SJBV ✈️, I am an active member of the Adelphi AeroDesign Team (https://www.instagram.com/adelphi_sjbv/). My role is to act as a Structures Engineer and have some skills in FEM (Finite Element Method) using softwares such as Ansys and Siemens Femap.
