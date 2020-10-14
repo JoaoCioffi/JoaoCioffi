@@ -1,6 +1,6 @@
 
 <img align="center" width="800" height="400" src="https://hackernoon.com/images/f2px36fy.gif">
-<img src="https://github.com/JoaoCioffi/JoaoCioffi/blob/main/code.png" min-width="200px" max-width="200px" width="400px" align="right" alt="Computador-JulianaIzac">
+<img src="https://github.com/JoaoCioffi/JoaoCioffi/blob/main/code.png" min-width="100px" max-width="200px" width="100px" align="right" alt="Computador-JulianaIzac">
 
 
 ### Welcome to my Rep 👋
