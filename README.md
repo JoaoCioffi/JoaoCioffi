@@ -1,5 +1,5 @@
 
-<img align="centered" width="1000" height="400" src="https://hackernoon.com/images/f2px36fy.gif">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador-JulianaIzac">
 
 ### Welcome to my Rep 👋
 
