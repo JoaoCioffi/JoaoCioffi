@@ -25,10 +25,10 @@ In my free time, beyond programming, I try to create some musical stuff 🎵. Vi
 
 ### 🏆 Learning Path 🏆
 
-- Matlab >>> [✔️]
-- LaTeX >>> [✔️]
-- Arduino/C++ >>> [✔️]
-- Python >>> [Loading ⌛]
+- Matlab 🡆 [✔️]
+- LaTeX 🡆 [✔️]
+- Arduino/C++ 🡆 [✔️]
+- Python 🡆 [Loading ⌛]
 
 #### -------------------------------------- / / ---------------------------------------------------
 
