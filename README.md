@@ -15,7 +15,7 @@ In my free time, beyond programming, I try to create some musical stuff 🎵. Vi
 
 ![Stats:](https://github-readme-stats.vercel.app/api?username=JoaoCioffi&show_icons=true&theme=dracula&title_color=00ea00)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCioffi&layout=compact&theme=dracula)](https://github.com/JoaoCioffi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCioffi&layout=compact&theme=dracula&title_color=00ea00)](https://github.com/JoaoCioffi/github-readme-stats)
 
 
 
