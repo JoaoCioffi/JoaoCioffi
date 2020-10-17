@@ -26,7 +26,7 @@ In my free time, beyond programming, I try to create some musical stuff 🎵. Vi
 - Matlab 🡆 [✔️]
 - LaTeX 🡆 [✔️]
 - Arduino/C++ 🡆 [✔️]
-- Python 🡆 [Loading ⌛
+- Python 🡆 [Loading ⌛]
 
 #### -------------------------------------- / / ---------------------------------------------------
 
