@@ -21,6 +21,15 @@ In my free time, beyond programming, I try to create some musical stuff 🎵. Vi
 
 #### -------------------------------------- / / ---------------------------------------------------
 
+### 🏆 Learning Path 🏆
+
+- Matlab 🡆 [✔️]
+- LaTeX 🡆 [✔️]
+- Arduino/C++ 🡆 [✔️]
+- Python 🡆 [Loading ⌛
+
+#### -------------------------------------- / / ---------------------------------------------------
+
 ### :rocket: Contact:
 [![Linkedin Badge](https://img.shields.io/badge/-JoaoCioffi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-raphael-cioffi-b11549156/)](https://www.linkedin.com/in/jo%C3%A3o-raphael-cioffi-b11549156/)
 [![Gmail Badge](https://img.shields.io/badge/-joaorcioffi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaorcioffi@gmail.com)](mailto:joaorcioffi@gmail.com)
