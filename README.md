@@ -19,17 +19,6 @@ In my free time, beyond programming, I try to create some musical stuff 🎵. Vi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCioffi&layout=compact&theme=dracula&title_color=00ea00)](https://github.com/JoaoCioffi/github-readme-stats)
 
-
-
-#### -------------------------------------- / / ---------------------------------------------------
-
-### 🏆 Learning Path 🏆
-
-- Matlab 🡆 [✔️]
-- LaTeX 🡆 [✔️]
-- Arduino/C++ 🡆 [✔️]
-- Python 🡆 [Loading ⌛]
-
 #### -------------------------------------- / / ---------------------------------------------------
 
 ### :rocket: Contact:
