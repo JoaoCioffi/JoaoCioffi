@@ -13,21 +13,6 @@ Graduating in Aeronautical Engineering 🎓, I've always been passionate about a
 
 In my free time, beyond programming, I try to create some musical stuff 🎵. Visit my SoundCloud Projects here 🡆 [![Soundcloud Badge](https://img.shields.io/badge/-See_0ff-a43b9d?style=flat-square&logo=Soundcloud&logoColor=white&link=https://soundcloud.com/joao-cioffi)](https://soundcloud.com/joao-cioffi)
 
-#### -------------------------------------- / / ---------------------------------
-
-![Stats:](https://github-readme-stats.vercel.app/api?username=JoaoCioffi&show_icons=true&theme=dracula&title_color=00ea00)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCioffi&layout=compact&theme=dracula&title_color=00ea00)](https://github.com/JoaoCioffi/github-readme-stats)
-
-#### -------------------------------------- / / ---------------------------------------------------
-
-### 🏆 Learning Path 🏆
-
-- Matlab 🡆 [✔️]
-- LaTeX 🡆 [✔️]
-- Arduino/C++ 🡆 [✔️]
-- Python 🡆 [Loading ⌛]
-
 #### -------------------------------------- / / ---------------------------------------------------
 
 ### :rocket: Contact:
