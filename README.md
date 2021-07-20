@@ -19,7 +19,6 @@ In my free time, beyond programming, I try to create some musical stuff 🎵. Vi
 [![Linkedin Badge](https://img.shields.io/badge/-JoaoCioffi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-cioffi/)](https://www.linkedin.com/in/joao-cioffi/)
 [![Gmail Badge](https://img.shields.io/badge/-joaorcioffi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaorcioffi@gmail.com)](mailto:joaorcioffi@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-See_0ff-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/see_0ff/)](https://www.instagram.com/see_0ff/)
-[![Facebook Badge](https://img.shields.io/badge/-JoaoCioffi-a43b9d?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/joao.cioffi.35/)](https://www.facebook.com/joao.cioffi.35/)
 
 #### -------------------------------------- / / ---------------------------------------------------
 
