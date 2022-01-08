@@ -3,8 +3,6 @@
 <img src="https://github.com/JoaoCioffi/JoaoCioffi/blob/main/code.png" min-width="250px" max-width="200px" width="250px" align="right" alt="Computador-JulianaIzac">
 
 
-### Welcome to my Rep 👋
-
 <div style="display: inline_block"><br>
     <img  align ="center" alt = "Windows" height"40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
     <img  align ="center" alt = "Linux" height"40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
