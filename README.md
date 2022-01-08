@@ -1,5 +1,5 @@
 
-<img align="center" width="800" height="400" src="https://c.tenor.com/MEr-JVXz_9QAAAAC/it-karak-itkaraktus.gif">
+<img align="center" width="800" height="400" src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
 <img src="https://github.com/JoaoCioffi/JoaoCioffi/blob/main/code.png" min-width="250px" max-width="200px" width="250px" align="right" alt="Computador-JulianaIzac">
 
 
