@@ -1,5 +1,5 @@
 
-<img align="center" width="800" height="400" src="https://nav43.com/wp-content/uploads/2017/08/hello-world-binary.gif">
+<img align="center" width="800" height="400" src="http://blog.jaredscheel.com/images/hello-world.gif">
 <img src="https://github.com/JoaoCioffi/JoaoCioffi/blob/main/code.png" min-width="250px" max-width="200px" width="250px" align="right" alt="Computador-JulianaIzac">
 
 
