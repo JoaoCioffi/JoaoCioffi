@@ -14,7 +14,7 @@
     <img align ="center" alt = "numpy" height"40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
     <img align ="center" alt = "numpy" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img  align ="center" alt = "numpy" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img  align ="center" alt = "TensorFlow" height"40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" />
+    <img  align ="center" alt = "TensorFlow" height"40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svgg" />
 </div>
 
 
