@@ -5,7 +5,7 @@
 
 ### Welcome to my Rep 👋
 
-<div>
+<div style="display: inline_block"><br>
 
 ### 📖 About me:
 
@@ -20,7 +20,7 @@ In my free time, beyond programming, I try to create some musical stuff 🎵. Vi
 [![Gmail Badge](https://img.shields.io/badge/-joaorcioffi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaorcioffi@gmail.com)](mailto:joaorcioffi@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-See_0ff-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/see_0ff/)](https://www.instagram.com/see_0ff/)
 
-<div>
+<div style="display: inline_block"><br>
 
 <details>
 <summary> <b> Life's EasterEgg: </b> <i>(Click to expand)</i> </summary>
