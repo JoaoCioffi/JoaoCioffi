@@ -25,8 +25,7 @@
 
 > ### 📖 About me:
 
-Graduating in Aeronautical Engineering, I've always been passionate about aviation and fascinated by the vast universe of computer science. Increasingly trying to engage in new horizons.
-
+>> Graduating in Aeronautical Engineering, I've always been passionate about aviation and fascinated by the vast universe of computer science. Increasingly trying to engage in new horizons.
 In my free time, beyond programming, I try to create some musical stuff. Visit my SoundCloud Projects here 🡆 [![Soundcloud Badge](https://img.shields.io/badge/-See_0ff-a43b9d?style=flat-square&logo=Soundcloud&logoColor=white&link=https://soundcloud.com/joao-cioffi)](https://soundcloud.com/joao-cioffi)
 
 ---
