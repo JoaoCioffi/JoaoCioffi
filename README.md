@@ -19,6 +19,8 @@
     
 </div>
 
+- DevIcons: https://github.com/devicons/devicon/tree/master/icons
+
 ---
 
 <div style="display: inline_block"><br>
