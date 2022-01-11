@@ -32,8 +32,8 @@ In my free time, beyond programming, I try to create some musical stuff. Visit m
 ---
     
 <div style="display: inline_block"><br>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=JoaoCioffi&show_icons=true&theme=dark"/>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCioffi&theme=dark"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=JoaoCioffi&show_icons=true&theme=merko"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCioffi&theme=merko"/>
 
 </div>
 
