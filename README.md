@@ -18,9 +18,6 @@
     <img  align ="center" alt = "Git" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     
 </div>
-
-- DevIcons: https://github.com/devicons/devicon/tree/master/icons
-
 ---
 
 <div style="display: inline_block"><br>
@@ -38,8 +35,6 @@ In my free time, beyond programming, I try to create some musical stuff. Visit m
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCioffi&theme=prussian"/>
 
 </div>
-    
-- Readme Stats for Github: https://github.com/anuraghazra/github-readme-stats
 
 ---
 
