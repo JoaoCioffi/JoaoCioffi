@@ -18,6 +18,7 @@
     <img  align ="center" alt = "Git" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     
 </div>
+
 ---
 
 <div style="display: inline_block"><br>
