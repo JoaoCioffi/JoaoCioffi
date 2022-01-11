@@ -2,6 +2,7 @@
 <img align="center" width="800" height="400" src="https://thumbs.gfycat.com/AmpleDelightfulAmazonparrot-size_restricted.gif">
 <img src="https://github.com/JoaoCioffi/JoaoCioffi/blob/main/code.png" min-width="250px" max-width="200px" width="250px" align="right" alt="Computador-JulianaIzac">
 
+---
 
 <div style="display: inline_block"><br>
     <img  align ="center" alt = "Windows" height"40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
@@ -18,6 +19,7 @@
     
 </div>
 
+---
 
 <div style="display: inline_block"><br>
 
@@ -26,6 +28,15 @@
 Graduating in Aeronautical Engineering, I've always been passionate about aviation and fascinated by the vast universe of computer science. Increasingly trying to engage in new horizons.
 
 In my free time, beyond programming, I try to create some musical stuff. Visit my SoundCloud Projects here 🡆 [![Soundcloud Badge](https://img.shields.io/badge/-See_0ff-a43b9d?style=flat-square&logo=Soundcloud&logoColor=white&link=https://soundcloud.com/joao-cioffi)](https://soundcloud.com/joao-cioffi)
+
+---
+ 
+<p  align="center">
+  <img src="https://raw.githubusercontent.com/JoaoCioffi/JoaoCioffi/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/JoaoCioffi/JoaoCioffi/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/JoaoCioffi/JoaoCioffi/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+    
+    
     
 <div style="display: inline_block"><br>
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=JoaoCioffi&show_icons=true&theme=prussian"/>
@@ -33,8 +44,7 @@ In my free time, beyond programming, I try to create some musical stuff. Visit m
 
 </div>
 
-
-
+---
 
 </div>
 
