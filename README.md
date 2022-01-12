@@ -5,7 +5,6 @@
 ---
 
 <div style="display: inline_block"><br>
-    > Technologies
     <img  align ="center" alt = "Windows" height"40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
     <img  align ="center" alt = "Linux" height"40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
     <img  align ="center" alt = "Rasp" height"40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" />
