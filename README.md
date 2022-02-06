@@ -2,7 +2,7 @@
 <img align="center" width="800" height="400" src="https://raw.githubusercontent.com/JoaoCioffi/JoaoCioffi/main/gif_art.gif">
 <img src="https://github.com/JoaoCioffi/JoaoCioffi/blob/main/code.png" min-width="250px" max-width="200px" width="250px" align="right" alt="Computador-JulianaIzac">
 
----
+
 
 <div style="display: inline_block"><br>
     <img  align ="center" alt = "Windows" height"40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
@@ -18,15 +18,15 @@
     
 </div>
 
----
+
 
 <div style="display: inline_block"><br>
 
-> ### 📖 About me:
+# 📖 About me:
 
 >> Graduating 🎓 in Aeronautical Engineering, I've always been passionate about aviation ✈ and fascinated by the vast universe of computer science 💻. Increasingly trying to engage in new horizons
 
----
+
     
 <div style="display: inline_block"><br>
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=JoaoCioffi&show_icons=true&theme=tokyonight"/>
@@ -34,4 +34,4 @@
 
 </div>
 
----
+
