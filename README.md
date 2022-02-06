@@ -1,6 +1,6 @@
 
 <img align="center" width="1200" height="500" src="https://raw.githubusercontent.com/JoaoCioffi/JoaoCioffi/main/gif_art.gif">
-<img src="https://github.com/JoaoCioffi/JoaoCioffi/blob/main/code.png" min-width="250px" max-width="200px" width="250px" align="right" alt="Computador-JulianaIzac">
+<img src="https://github.com/JoaoCioffi/JoaoCioffi/blob/main/coding.png" min-width="250px" max-width="200px" width="250px" align="right" alt="Computador-JulianaIzac">
 
 
 
