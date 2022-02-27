@@ -1,5 +1,5 @@
 
-<img align="center" width="1200" height="500" src="https://raw.githubusercontent.com/JoaoCioffi/JoaoCioffi/main/wpp.gif">
+<img align="center" width="1000" height="500" src="https://raw.githubusercontent.com/JoaoCioffi/JoaoCioffi/main/wpp.gif">
 <img src="https://github.com/JoaoCioffi/JoaoCioffi/blob/main/coding.png" min-width="250px" max-width="200px" width="250px" align="right" alt="Computador-JulianaIzac">
 
 
