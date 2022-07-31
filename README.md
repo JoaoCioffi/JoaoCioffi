@@ -22,7 +22,7 @@
 
 <div style="display: inline_block"><br>
     <div align="center" class="status">
-        <img height="190em" width="20%" src="https://github-readme-stats.vercel.app/api?username=JoaoCioffi&show_icons=true&theme=tokyonight"/>
+        <img height="80%" width="80%" src="https://github-readme-stats.vercel.app/api?username=JoaoCioffi&show_icons=true&theme=tokyonight"/>
         <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCioffi&theme=tokyonight "/>
     </div>
 </div>
