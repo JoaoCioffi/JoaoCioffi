@@ -21,10 +21,8 @@
 > Graduating 🎓 in Aeronautical Engineering, I've always been passionate about aviation ✈ and fascinated by the vast universe of computer science 💻. Increasingly trying to engage in new horizons
 
 <div style="display: inline_block"><br>
-    <div align="center">
+    <div align="center" class="status">
         <img height="190em" src="https://github-readme-stats.vercel.app/api?username=JoaoCioffi&show_icons=true&theme=tokyonight"/>
-    </div>
-    <div align="center">
         <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCioffi&theme=tokyonight "/>
     </div>
 </div>
