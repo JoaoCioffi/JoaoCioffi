@@ -17,8 +17,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-    # 📌About me:  
-    > Graduating 🎓 in Aeronautical Engineering, I've always been passionate about aviation ✈ and fascinated by the vast universe of computer science 💻. Increasingly trying to engage in new horizons
+# 📌About me:  
+> Graduating 🎓 in Aeronautical Engineering, I've always been passionate about aviation ✈ and fascinated by the vast universe of computer science 💻. Increasingly trying to engage in new horizons
 </div>
 
 
