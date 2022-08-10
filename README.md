@@ -25,8 +25,8 @@
 > Graduating 🎓 in Aeronautical Engineering, I've always been passionate about aviation ✈ and fascinated by the vast universe of computer science 💻. Increasingly trying to engage in new horizons
 
 <div style="display: inline_block" align="center"><br>
-    <img height="30%" width="50%" padding-left="20px" src="https://github-readme-stats.vercel.app/api?username=JoaoCioffi&show_icons=true&theme=synthwave"/>
-    <img height="10%" width="20%" padding-right="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCioffi&theme=synthwave"/>
+    <img height="30%" width="50%" padding-left="20px" src="https://github-readme-stats.vercel.app/api?username=JoaoCioffi&show_icons=true&theme=ocean_dark"/>
+    <img height="10%" width="20%" padding-right="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCioffi&theme=ocean_dark"/>
 </div>
 
 ![snake gif](https://github.com/JoaoCioffi/JoaoCioffi/blob/output/github-contribution-grid-snake.svg)
