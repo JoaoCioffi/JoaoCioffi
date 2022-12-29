@@ -1,6 +1,8 @@
 
 <img src="https://github.com/JoaoCioffi/JoaoCioffi/blob/main/coding.png" min-width="250px" max-width="200px" width="250px" align="right" alt="Computador-JulianaIzac">
 
+### Hi! I´m Joao, and welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <div style="display: inline_block"><br>
     <img align ="center" alt = "Windows" height"40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"/>
     <img align ="center" alt = "Linux" height"40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
@@ -16,7 +18,5 @@
     <img align ="center" alt = "HTML5" height"40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"/>
     <img align ="center" alt = "Git" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
-
-### Hi! I´m Joao, and welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![snake gif](https://github.com/JoaoCioffi/JoaoCioffi/blob/output/github-contribution-grid-snake.svg)
