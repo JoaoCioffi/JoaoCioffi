@@ -1,5 +1,5 @@
-![snake gif](https://github.com/JoaoCioffi/JoaoCioffi/blob/output/github-contribution-grid-snake.svg)
-
+### Hi! I´m João, and welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<hr>
 
 <p>
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -42,3 +42,5 @@
 - 👩🏼‍💻 I am currently working as support analyst at @PerfectFlight;
 - 📚 I’m currently focusing on Python, ML, DL and Big Data Architecture; 
 - 📫 How to reach me: [@JoaoCioffi](https://www.linkedin.com/in/joao-cioffi/);
+
+![snake gif](https://github.com/JoaoCioffi/JoaoCioffi/blob/output/github-contribution-grid-snake.svg)
