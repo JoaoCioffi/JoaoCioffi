@@ -1,6 +1,3 @@
-### Hi! I´m João, and welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<hr>
-
 <p>
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -36,6 +33,9 @@
   <img alt="airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
   <img alt="" src="" />
 </p>
+
+### Hi! I´m João, and welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<hr>
 
 <img src="https://github.com/JoaoCioffi/JoaoCioffi/blob/main/coding.png" min-width="250px" max-width="200px" width="250px" align="right" alt="Computador-JulianaIzac">
 
