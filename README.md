@@ -18,6 +18,5 @@
 </div>
 
 ### Hi! I´m Joao, and welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<hr>
 
 ![snake gif](https://github.com/JoaoCioffi/JoaoCioffi/blob/output/github-contribution-grid-snake.svg)
