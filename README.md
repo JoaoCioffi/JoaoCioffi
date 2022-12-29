@@ -25,6 +25,6 @@
 
 - 👩🏼‍💻 I am currently working with Python, SQL and Business Intelligence;
 - 📚 I’m currently developing skills with Machine Learning, Deep Learning and Big Data Architecture;
-- 📫 How to reach me: [@JoaoCioffi](https://www.linkedin.com/in/joao-cioffi/);
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joao-cioffi/);
 
 ![snake gif](https://github.com/JoaoCioffi/JoaoCioffi/blob/output/github-contribution-grid-snake.svg)
