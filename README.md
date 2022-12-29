@@ -19,12 +19,4 @@
     <img align ="center" alt = "Git" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
 
----
-
-**About me:**
-
-- 👩🏼‍💻 I am currently working with Python, SQL and Business Intelligence;
-- 📚 I’m currently developing skills with Machine Learning, Deep Learning and Big Data Architecture;
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joao-cioffi/);
-
 ![snake gif](https://github.com/JoaoCioffi/JoaoCioffi/blob/output/github-contribution-grid-snake.svg)
