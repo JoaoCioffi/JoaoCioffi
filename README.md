@@ -1,5 +1,4 @@
 <h1>
-    <img align="center" width="800" height="500" src="https://raw.githubusercontent.com/JoaoCioffi/JoaoCioffi/main/welcome.gif">
     <img src="https://github.com/JoaoCioffi/JoaoCioffi/blob/main/coding.png" min-width="250px" max-width="200px" width="250px" align="right" alt="Computador-JulianaIzac">
 </h1>
 
