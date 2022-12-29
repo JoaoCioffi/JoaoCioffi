@@ -1,6 +1,5 @@
-<h1>
-    <img src="https://github.com/JoaoCioffi/JoaoCioffi/blob/main/coding.png" min-width="250px" max-width="200px" width="250px" align="right" alt="Computador-JulianaIzac">
-</h1>
+
+<img src="https://github.com/JoaoCioffi/JoaoCioffi/blob/main/coding.png" min-width="250px" max-width="200px" width="250px" align="right" alt="Computador-JulianaIzac">
 
 <div style="display: inline_block"><br>
     <img align ="center" alt = "Windows" height"40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"/>
