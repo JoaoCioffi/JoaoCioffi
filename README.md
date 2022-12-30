@@ -1,5 +1,4 @@
-
-[![Joao's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCioffi&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoCioffi&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <img src="https://github.com/JoaoCioffi/JoaoCioffi/blob/main/coding.png" min-width="250px" max-width="200px" width="250px" align="right" alt="Computador-JulianaIzac">
 
