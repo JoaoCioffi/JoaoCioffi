@@ -8,6 +8,7 @@
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoCioffi&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+- ✈ Aeronautical Engineer
 - 🖥️ I am currently working as Support Analyst and Data Scientist at [@PerfectFlight](https://github.com/perfect-flight)
 - 📚 I’m currently focusing on Python, ML, DL and Big Data Architecture
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joao-cioffi/)
