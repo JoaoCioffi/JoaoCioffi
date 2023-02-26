@@ -4,7 +4,7 @@
 
 <img src="https://github.com/JoaoCioffi/JoaoCioffi/blob/main/coding.png" min-width="250px" max-width="200px" width="250px" align="right" alt="Computador-JulianaIzac">
 
-### Hi! I´m João, and welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I´m João and welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoCioffi&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
