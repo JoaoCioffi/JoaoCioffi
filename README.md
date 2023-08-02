@@ -12,5 +12,3 @@
 - 🖥️ I am currently working as a Scientific Researcher at [Centro Espacial ITA (CEI)](https://www.cei.ita.br/) and as a Data Scientist at [PerfectFlight](https://github.com/perfect-flight)
 - 📚 Focusing on Python, ML, DL and Big Data Architecture
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joao-cioffi/)
-
-![snake gif](https://github.com/JoaoCioffi/JoaoCioffi/blob/output/github-contribution-grid-snake.svg)
