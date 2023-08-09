@@ -6,7 +6,7 @@
 
 ### Hi, I´m João and welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoCioffi&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JoaoCioffi&theme=dark&hide_border=true&fire=25EB00&background=45%2C000000%2C0C167E&ring=25EB00&currStreakLabel=25EB00&sideLabels=25EB00&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
 
 - ✈ Aeronautical Engineer
 - 🖥️ I am currently working as a Scientific Researcher at [Centro Espacial ITA (CEI)](https://www.cei.ita.br/) and as a Data Scientist at [PerfectFlight](https://github.com/perfect-flight)
