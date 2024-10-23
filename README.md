@@ -9,5 +9,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=JoaoCioffi&border_radius=50&background=45%2C000000%2C000953&stroke=00FF1C&fire=00FF1C&ring=00FF1C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF1C&sideLabels=00FF1C&dates=6E6E6E&border=00FF1C)](https://git.io/streak-stats)
 
 - ✈ Aeronautical Engineer
-- 🖥️ I am currently working as a ML/AI Engineer at [SpySkyTech Inc.](https://spyskytech.com/) and as a Data Scientist at [Perfect Flight](https://www.perfectflight.com.br/)
+- 🖥️ Currently working as a ML/AI Engineer at [SpySkyTech Inc.](https://spyskytech.com/) and as a Data Scientist at [Perfect Flight](https://www.perfectflight.com.br/)
 - 📚 Focusing on AI, ML and Big Data Architecture
