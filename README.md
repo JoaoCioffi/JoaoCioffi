@@ -6,8 +6,6 @@
 
 ### Hi, I´m João and welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JoaoCioffi&border_radius=50&background=45%2C000000%2C000953&stroke=00FF1C&fire=00FF1C&ring=00FF1C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF1C&sideLabels=00FF1C&dates=6E6E6E&border=00FF1C)](https://git.io/streak-stats)
-
 - ✈ Aeronautical Engineer
 - 🖥️ Currently working as a Data Scientist at [Perfect Flight](https://www.perfectflight.com.br/)
 - 📚 Focusing on AI, ML and Big Data Architecture
