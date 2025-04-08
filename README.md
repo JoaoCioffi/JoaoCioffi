@@ -4,8 +4,9 @@
 
 <img src="https://github.com/JoaoCioffi/JoaoCioffi/blob/main/coding.png" min-width="250px" max-width="200px" width="250px" align="right" alt="Computador-JulianaIzac">
 
-### Hi, I´m João and welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I´m João and welcome to my profile! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlpMWttZ3VjbWp0cDg4bTl2Yjhpc240b2hvanRrZ3loMm4wemp5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="25px">
 
 - ✈ Aeronautical Engineer
 - 🖥️ Currently working as a Data Scientist at [Perfect Flight](https://www.perfectflight.com.br/)
 - 📚 Focusing on AI, ML and Big Data Architecture
+- https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
