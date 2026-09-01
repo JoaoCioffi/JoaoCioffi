@@ -88,8 +88,6 @@ goals into measurable, shippable systems.
 ![Certs](https://img.shields.io/badge/3-ANTHROPIC%20CERTS-161b22?style=for-the-badge&labelColor=3fb950)
 ![Languages](https://img.shields.io/badge/EN·PT·ES-LANGUAGES-161b22?style=for-the-badge&labelColor=3fb950)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaocioffi&bg_color=0d1117&color=39d353&line=3fb950&point=ffffff&area=true&hide_border=true&hide_title=true" width="100%" alt="contribution graph" />
-
 </div>
 
 <img src="./assets/pill-connect.svg" height="34" alt="~/ connect" />
