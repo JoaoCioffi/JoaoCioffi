@@ -64,8 +64,9 @@
 ![MLOps](https://img.shields.io/badge/MLOps-161b22?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-161b22?style=for-the-badge)
 ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-161b22?style=for-the-badge)
-![Credit & Risk Intelligence](https://img.shields.io/badge/Credit%20%26%20Risk%20Intelligence-161b22?style=for-the-badge)
-![Document Intelligence](https://img.shields.io/badge/Document%20Intelligence-161b22?style=for-the-badge)
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-161b22?style=for-the-badge)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-161b22?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-161b22?style=for-the-badge)
 
 </div>
 
