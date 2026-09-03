@@ -9,20 +9,9 @@
 
 <img src="./assets/pill-whoami.svg" height="34" alt="~/ whoami" />
 
-```text
-$ cat about.txt
-
-Senior AI/ML & AI Automation engineer specialized in taking intelligent
-systems from concept to PRODUCTION in regulated, mission-critical environments.
-
-I build LLM & agentic systems, RAG, and MLOps across the full lifecycle
-— data, modeling, deployment — with a deterministic-first, audit-grade
-approach: LLMs constrained to validation/recommendation, never autonomous
-decisioning.
-
-5+ years across ML, data engineering, and cloud. I turn ambiguous business
-goals into measurable, shippable systems.
-```
+<div align="center">
+<img src="./assets/whoami.svg" width="100%" alt="whoami — about.txt" />
+</div>
 
 <img src="./assets/pill-toolbox.svg" height="34" alt="~/ toolbox" />
 
